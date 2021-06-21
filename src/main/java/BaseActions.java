@@ -32,7 +32,6 @@ public class BaseActions implements BaseActionsInterface {
     public void showCard(List<Integer> cards) {
         //все эти условия нужны для красивого и ровного вывода карт игрока в виде таблицы
 
-
         String longSeparator = " ---------------- ";
         String shortSeparator = " ----------------- ";
         int i = 0;
