@@ -49,7 +49,7 @@ public class CardGame {
         int aiCard;
 
         //запас сильных карт ИИ
-        int aiStockOfStrongCards = 1;
+        int aiStockOfStrongCards = 3;
 
         List<Integer> aiChoice = new ArrayList<>();
 
